@@ -1,0 +1,1 @@
+Gauntlet Runner is an immersive gaming experience developed using C#. In this action-packed adventure, players embark on a thrilling journey through treacherous environments filled with challenges and obstacles at every turn. The game is designed to test players' reflexes, strategic thinking, and agility as they navigate through a series of increasingly difficult levels.
